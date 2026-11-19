@@ -1,0 +1,7 @@
+* LibreVMS
+
+LibreVMS aims to build a VMS-compatible system on its own microkernel.
+
+* Boot
+
+: nix run path:.
